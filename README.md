@@ -1,5 +1,3 @@
-# stan-demo
-
 # How to run
 1. git clone this project
 2. cd into the base folder
