@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the content header and compares with snapshots without crashing 1`] = `
+<div
+  className="app-content-header"
+>
+  <div
+    className="app-content-text"
+  >
+    Popular 
+  </div>
+</div>
+`;
+
+exports[`renders the footer and compares with snapshots without crashing 1`] = `
+<footer
+  className="app-footer-container"
+>
+  <p
+    className="app-footer-info"
+  >
+    Home  |  Terms and Conditions  |  Privacy Policy  |  Collection Statement  |  Help  |  Manage Account
+  </p>
+  <small
+    style={
+      Object {
+        "color": "#fff",
+      }
+    }
+  >
+    Copyright © 2016 DEMO Streaming. All Rights Reserved.
+  </small>
+  <div
+    className="app-footer-social-container"
+  >
+    <div
+      className="app-footer-social-logo-container"
+    >
+      <img
+        alt="facebook"
+        className="app-footer-social-logo"
+        height="30"
+        src="facebook-white.svg"
+      />
+      <img
+        alt="twitter"
+        className="app-footer-social-logo"
+        height="30"
+        src="twitter-white.svg"
+      />
+      <img
+        alt="instagram"
+        className="app-footer-social-logo"
+        height="30"
+        src="instagram-white.svg"
+      />
+    </div>
+    <div
+      className="app-footer-social-store-container"
+    >
+      <img
+        alt="appstore"
+        className="app-footer-social-store"
+        height="30"
+        src="app-store.svg"
+      />
+      <img
+        alt="playstore"
+        className="app-footer-social-store"
+        height="30"
+        src="play-store.svg"
+      />
+      <img
+        alt="windowsstore"
+        className="app-footer-social-store"
+        height="30"
+        src="windows-store.svg"
+      />
+    </div>
+  </div>
+</footer>
+`;
+
+exports[`renders the header and compares with snapshots without crashing 1`] = `
+<header
+  className="app-header-container"
+>
+  <div
+    className="app-header-left-title"
+  >
+    DEMO Streaming
+  </div>
+  <div
+    className="app-header-right-container"
+  >
+    <a
+      className="app-header-login"
+      href=""
+    >
+      Log in
+    </a>
+    <button
+      className="app-header-free-trial"
+    >
+      Start your free trial
+    </button>
+  </div>
+</header>
+`;
